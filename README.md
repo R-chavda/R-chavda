@@ -5,8 +5,8 @@
 ## 🧠 About Me
 
 💻 Demonstrated skills in **Node.js**, **ReactJS**, and **MongoDB**  
-📊 Looking forward to building skills in **Data Analytics** and **Cloud Computing**
-📙 final year CSE student in GTU at bhavnagar
+📊 Looking forward to building skills in **Data Analytics** and **Cloud Computing**  
+📙 final year **CSE** student in GTU at bhavnagar
   
 
 ---
@@ -35,7 +35,7 @@
 
 ## 🌐 Connect With Me
 
-- GitHub: [R-chavda](https://github.com/R-chavda)  
+- Checkout Projects: [R-chavda](https://github.com/R-chavda)  
 - Instagram: [that_rahulchavda](https://www.instagram.com/that_rahulchavda/)  
 - LinkedIn: [rahul-chavda](https://www.linkedin.com/in/rahul-chavda-cte-gecbvn-ce-7b643b26a/)  
 - Email: [chavdarahul915@gmail.com](mailto:chavdarahul915@gmail.com)
