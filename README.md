@@ -1,28 +1,45 @@
-# Fabric Defect Classification on Power Looms
+# 👋 Hi, I'm Rahul Chavda
 
-## Project Description
+---
 
-Textile mills often detect defects late in the production process. This project aims to build a real-time fabric inspection system using AI to identify issues earlier, helping reclaim defective fabric and improve quality standards.
+## 🧠 About Me
 
-## Directory Structure
+💻 Demonstrated skills in **Node.js**, **ReactJS**, and **MongoDB**  
+🚀 Currently seeking an **internship or entry-level role** to apply my web development skills in impactful projects  
+📊 Looking forward to building skills in **Data Analytics** and **Cloud Computing**
+  
 
-- `fabric_dataset/` : Training and validation images organized by defect type
-- `notebooks/` : Jupyter notebooks for exploration and prototyping
-- `scripts/` : Python scripts for data processing, training, and evaluation
-- `models/` : Saved and exported machine learning models
-- `data/` : Additional data files (if needed)
+---
 
-## Setup Instructions
+## 🛠️ Languages & Tools
 
-1. Install Python 3.8+
-2. Install dependencies: `pip install -r requirements.txt`
-3. Place your dataset in the `fabric_dataset/` folder
+**Languages:**  
+`C` `JavaScript` `HTML5` `CSS3`
 
-## Usage
+**Frontend:**  
+`React` `TailwindCSS` `Bootstrap`
 
-- Use notebooks for prototyping and EDA
-- Use scripts for training and evaluation
+**Backend & DB:**  
+`Node.js` `Express` `MongoDB` `PostgreSQL`
 
-## Requirements
+**Others:**  
+`Git` `VS Code` `Linux`
 
-See `requirements.txt` for dependencies.
+---
+
+## more as a personality
+🌱 I also explored and had experience in areas like **accounts**, **financial markets**, and **agricultural science**
+💬 Ask me about **theatre**, **history**, **music**, and **cinema**  
+🌍 Amateur traveler – I love discovering cultures, local stories.
+📚 Casual reader – From tech blogs to old novels, I enjoy exploring ideas in words.
+
+## 🌐 Connect With Me
+
+- GitHub: [R-chavda](https://github.com/R-chavda)  
+- Instagram: [that_rahulchavda](https://www.instagram.com/that_rahulchavda/)  
+- LinkedIn: [rahul-chavda](https://www.linkedin.com/in/rahul-chavda-cte-gecbvn-ce-7b643b26a/)  
+- Email: [chavdarahul915@gmail.com](mailto:chavdarahul915@gmail.com)
+
+---
+
+*Thanks for visiting my profile!*
