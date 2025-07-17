@@ -35,7 +35,7 @@
 
 ## 🌐 Connect With Me
 
-- Checkout Projects: [R-chavda](https://github.com/R-chavda)  
+- Checkout Projects: [R-chavda](https://github.com/R-chavda?tab=repositories)  
 - Instagram: [that_rahulchavda](https://www.instagram.com/that_rahulchavda/)  
 - LinkedIn: [rahul-chavda](https://www.linkedin.com/in/rahul-chavda-cte-gecbvn-ce-7b643b26a/)  
 - Email: [chavdarahul915@gmail.com](mailto:chavdarahul915@gmail.com)
