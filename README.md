@@ -5,8 +5,8 @@
 ## 🧠 About Me
 
 💻 Demonstrated skills in **Node.js**, **ReactJS**, and **MongoDB**  
-🚀 Currently seeking an **internship or entry-level role** to apply my web development skills in impactful projects  
 📊 Looking forward to building skills in **Data Analytics** and **Cloud Computing**
+📙 final year CSE student in GTU at bhavnagar
   
 
 ---
