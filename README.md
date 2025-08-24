@@ -5,7 +5,7 @@
 ## 🧠 About Me and skill
 
 💻 Demonstrated skills in **Node.js**, **ReactJS**, and **MongoDB**  
-📊 Looking forward to building skills in **Data Analytics** and **Cloud Computing**  (aint gonna happen)  
+📊 Looking forward to building skills in **Data Analytics** and **DevOps**  
 📙 final year **CSE** student in GTU at bhavnagar
   
 
@@ -14,7 +14,7 @@
 ## 🛠️ Languages & Tools
 
 **Languages:**  
-`C` `JavaScript` `HTML5` `CSS3`
+`C` `JavaScript` `HTML5` `CSS3` `SQL`
 
 **Frontend:**  
 `React` `TailwindCSS` `Bootstrap`
@@ -27,7 +27,7 @@
 
 ---
 
-## more as a personality
+## more as a personality beyod tech
 🌱 I don’t just code — I’ve also explored accounts, financial markets, and agricultural science. And if you want a deep dive into polity, history, music, or cinema, I’m your guy.  
 🌍 Amateur explorer – I love discovering cultures, local stories.  
 📚 Casual reader – From tech blogs to old novels, with a hint of philosophy - I enjoy exploring ideas in words.  
