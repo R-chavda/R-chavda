@@ -2,7 +2,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me and skill
 
 💻 Demonstrated skills in **Node.js**, **ReactJS**, and **MongoDB**  
 📊 Looking forward to building skills in **Data Analytics** and **Cloud Computing**  (aint gonna happen)  
@@ -30,8 +30,8 @@
 ## more as a personality
 🌱 I also explored and had experience in areas like **accounts**, **financial markets**, and **agricultural science**
 💬 Ask me about **theatre**, **history**, **music**, and **cinema**  
-🌍 Amateur traveler – I love discovering cultures, local stories.
-📚 Casual reader – From tech blogs to old novels, I enjoy exploring ideas in words.
+🌍 Amateur explorer – I love discovering cultures, local stories.  
+📚 Casual reader – From tech blogs to old novels, with a hint of philosophy - I enjoy exploring ideas in words.  
 
 ## 🌐 Connect With Me
 
