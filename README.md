@@ -28,8 +28,7 @@
 ---
 
 ## more as a personality
-🌱 I also explored and had experience in areas like **accounts**, **financial markets**, and **agricultural science**
-💬 Ask me about **theatre**, **history**, **music**, and **cinema**  
+🌱 I don’t just code — I’ve also explored accounts, financial markets, and agricultural science. And if you want a deep dive into polity, history, music, or cinema, I’m your guy.  
 🌍 Amateur explorer – I love discovering cultures, local stories.  
 📚 Casual reader – From tech blogs to old novels, with a hint of philosophy - I enjoy exploring ideas in words.  
 
