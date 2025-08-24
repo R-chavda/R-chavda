@@ -5,7 +5,7 @@
 ## 🧠 About Me
 
 💻 Demonstrated skills in **Node.js**, **ReactJS**, and **MongoDB**  
-📊 Looking forward to building skills in **Data Analytics** and **Cloud Computing**  (aint gonna happen)
+📊 Looking forward to building skills in **Data Analytics** and **Cloud Computing**  (aint gonna happen)  
 📙 final year **CSE** student in GTU at bhavnagar
   
 
